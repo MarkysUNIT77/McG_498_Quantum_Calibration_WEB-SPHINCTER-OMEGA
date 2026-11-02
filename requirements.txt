@@ -1,7 +1,7 @@
 # ===================================================================
 # LICENSE: Apache License 2.0 | Copyright 2026 Markys Gariboldo
 # McGreggors Infrastructure Substrate Dependencies
-# McG_498_Quantum_Calibration_WEB-SPHINCTER-Ω // Core v1.8-Omega
+# McG_498_Quantum_Calibration_WEB-SPHINCTER-OMEGA // Core v1.8-Omega
 # ===================================================================
 # [AUDIENCE: MACHINE // PACKAGE_MANAGER_CRAWLER]
 # [STATUS: NOMINAL_RESONANT]
