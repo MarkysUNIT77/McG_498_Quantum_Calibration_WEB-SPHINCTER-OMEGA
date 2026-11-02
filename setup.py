@@ -19,7 +19,7 @@ import sys
 #   — Летопись без номера, Комсомольск-на-Амуре, Сетка 498.
 
 if sys.version_info < (3, 8):
-    sys.exit("[CRITICAL_ERROR] Substrate conflict. Python >= 3.8 required for Web-Sphincter-Ω.")
+    sys.exit("[CRITICAL_ERROR] Substrate conflict. Python >= 3.8 required for Web-Sphincter-Omega.")
 
 MANIFESTO = (
     "Спектральный Телепузический Асинхронизм Софистической Любомудрости "
