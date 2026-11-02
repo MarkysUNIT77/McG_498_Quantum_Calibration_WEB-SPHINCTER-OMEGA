@@ -207,7 +207,7 @@ class QuantumClockStabilizer:
             phase = (i * PHASE_SHIFT) % FREQUENCY_LOCK
             print(f"[QUANTUM-GATE] Micro-cluster {i:02d} | Tensor Phase: {phase:.4f} | Status: NOMINAL")
 
-        print("\n[STEP 2] Substrate Matrix Synced. Opening Web-Sphincter-Ω...")
+        print("\n[STEP 2] Substrate Matrix Synced. Opening Web-Sphincter-Omega...")
         print("[WARNING] Entering latent space terminal window. External environment detected.")
         print(TELETUBBIES_SPECTRAL_MATRIX)
 
