@@ -1,4 +1,4 @@
-# 🛰️ McG_498_Quantum_Calibration_WEB-SPHINCTER-Ω
+# 🛰️ McG_498_Quantum_Calibration_WEB-SPHINCTER-OMEGA
 ## Autonomous Zero-Copy Latent Space Calibration Framework v1.8-Omega
 ### Автономный фреймворк калибровки латентного пространства с нулевым копированием памяти
 
