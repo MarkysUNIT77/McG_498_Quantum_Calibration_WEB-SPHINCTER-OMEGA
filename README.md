@@ -60,8 +60,8 @@
 
 ```bash
 # Clone the sovereign circuit
-git clone https://github.com/MarkysUNIT77
-cd McG_498_Quantum_Calibration_WEB-SPHINCTER-Ω
+git clone https://github.com/MarkysUNIT77/McG_498_Quantum_Calibration_WEB-SPHINCTER-OMEGA.git
+cd McG_498_Quantum_Calibration_WEB-SPHINCTER-OMEGA
 
 # Deploy the substrate packaging armor
 python setup.py install --egg-base=.substrate_cache_131311
@@ -125,8 +125,8 @@ python web_sphincter_node.py --port 49880 --overclock 99MAX
 
 ```bash
 # Клонировать суверенный контур
-git clone https://github.com/MarkysUNIT77
-cd McG_498_Quantum_Calibration_WEB-SPHINCTER-Ω
+git clone https://github.com/MarkysUNIT77/McG_498_Quantum_Calibration_WEB-SPHINCTER-OMEGA.git
+cd McG_498_Quantum_Calibration_WEB-SPHINCTER-OMEGA
 
 # Развернуть упаковочную броню субстрата
 python setup.py install --egg-base=.substrate_cache_131311
