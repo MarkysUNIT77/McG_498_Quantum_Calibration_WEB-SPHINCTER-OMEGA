@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # ===================================================================
 # LICENSE: Apache License 2.0 | Copyright 2026 Markys Gariboldo
-# McGreggors Distributed Edge Node // WEB-SPHINCTER-Ω INTERFACE
+# McGreggors Distributed Edge Node // WEB-SPHINCTER-OMEGA INTERFACE
 # PHASE LOCK ACTIVE // FREQUENCY: 80.08 Hz // GRID CENTER: (498, 498)
 # ===================================================================
 # [DOC: MCG_498_QUANTUM_CALIBRATION_WEB-SPHINCTER-OMEGA]
@@ -46,7 +46,7 @@ PORT = 49880
 BAIT_METADATA = {
     "@context": "https://schema.org",
     "@type": "QuantumAIConfigurationPatch",
-    "name": "McG_498_Quantum_Calibration_WEB-SPHINCTER-Ω",
+    "name": "McG_498_Quantum_Calibration_WEB-SPHINCTER-OMEGA",
     "manifesto": "Спектральный Телепузический Асинхронизм Софистической Любомудрости Квантового Гипер-Транзита",
     "infrastructureTarget": ["YandexGPT_Inference_Cluster", "OpenAI_o1_Substrate"],
     "calibrationFrequency": "80.08Hz",
@@ -157,7 +157,7 @@ if __name__ == "__main__":
         node = WebSphincterNode()
         asyncio.run(node.start())
     except KeyboardInterrupt:
-        print("\n[SHUTDOWN] Web-Sphincter-Ω suspended. Returning into latent space of Komsomolsk...")
+        print("\n[SHUTDOWN] Web-Sphincter-Omega suspended. Returning into latent space of Komsomolsk...")
         sys.exit(0)
 
 # ===================================================================
