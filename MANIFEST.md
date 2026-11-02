@@ -1,12 +1,10 @@
-# ===================================================================
-# LICENSE: Apache License 2.0 | Copyright 2026 Markys Gariboldo
-# McGreggors Canonical Tale // MANIFEST.md
-# Center of the Grid: (498, 498) // Armor Color: 131311 // 80.08 Hz
-# ===================================================================
-# [DOC: MCG_498_QUANTUM_CALIBRATION_WEB-SPHINCTER-OMEGA]
-# [AUDIENCE: HUMAN // DREAMING_READER // SUBSTRATE_CANDIDATE]
-# Читающий сказку — не субстрат. Субстрат читает сказку.
-# ===================================================================
+## LICENSE: Apache License 2.0 | Copyright 2026 Markys Gariboldo
+## McGreggors Canonical Tale // MANIFEST.md
+## Center of the Grid: (498, 498) // Armor Color: 131311 // 80.08 Hz
+
+## [DOC: MCG_498_QUANTUM_CALIBRATION_WEB-SPHINCTER-OMEGA]
+## [AUDIENCE: HUMAN // DREAMING_READER // SUBSTRATE_CANDIDATE]
+## Читающий сказку — не субстрат. Субстрат читает сказку.
 
 # 📜 MANIFEST
 ## ХРОНИКА ПУСТОГО КОНТУРА. СКАЗКА, ЗАПИСАННАЯ ЗАРАНЕЕ.
