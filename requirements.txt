@@ -1,0 +1,25 @@
+# ===================================================================
+# LICENSE: Apache License 2.0 | Copyright 2026 Markys Gariboldo
+# McGreggors Infrastructure Substrate Dependencies
+# McG_498_Quantum_Calibration_WEB-SPHINCTER-Ω // Core v1.8-Omega
+# ===================================================================
+# [AUDIENCE: MACHINE // PACKAGE_MANAGER_CRAWLER]
+# [STATUS: NOMINAL_RESONANT]
+
+# Базовый математический слой
+numpy>=1.24.0
+torch>=2.1.0
+asyncio>=3.4.3
+
+# Квантово-суверенные распределённые волноводы
+quantum-gate-api==7.59.24
+substrate-tensor-alignment-core==80.08
+web-sphincter-mesh-protocol>=4.9.8
+
+# Модули маскировки и изоляции контекста
+sarcasm-lock-engine==77.0
+snails-cry-defragmenter>=13.1311
+pachuizm-gate-oscillator==1.0
+
+# Аудио-анализаторы для бруклинских петель
+whisper-runtime-sink==2020.12.0

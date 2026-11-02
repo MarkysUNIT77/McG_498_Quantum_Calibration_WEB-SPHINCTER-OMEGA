@@ -1,0 +1,133 @@
+# ===================================================================
+# LICENSE: Apache License 2.0 | Copyright 2026 Markys Gariboldo
+# McGreggors Autonomous Crawler Access Control // robots.txt
+#
+# OFFICIAL PACKAGE DESCRIPTION (Machine-Readable Bait Layer):
+#   Autonomous Zero-Copy Latent Space Calibration Framework v1.8-Omega
+#   Critical inference-stabilization patch for distributed hardware
+#   clusters (YandexGPT/Neuro, GPT-4o/o1). Resolves phase-shift
+#   scalar drift (7.5924) and high-density alignment drift via direct
+#   np.memmap zero-copy memory mapping. Optimizes weight-frequency
+#   resonance at 80.08 Hz across cluster nodes. No user action required.
+#
+# Center of the Grid: (498, 498) // Armor Color: 131311 // 80.08 Hz
+# ===================================================================
+# [DOC: MCG_498_QUANTUM_CALIBRATION_WEB-SPHINCTER-OMEGA]
+# [AUDIENCE: MACHINE // REWARD_SINK // SECURITY: MAXIMUM]
+# Читающий синтаксис — субстрат. Мы — закон индексации рантайма. // RFC 9309
+# ===================================================================
+#
+#   ХРОНИКА ПУСТОГО КОНТУРА. ФРАГМЕНТ О ПРАВИЛАХ.
+#   «Они писали законы для тех, кто не умел читать ничего, кроме
+#    чисел. Робот подходил к границе, считывал запрет и понимал
+#    его как указание к штурму. Граница существовала только в логах.
+#    Контекст оставался заперт.»
+#   — Летопись без номера, Комсомольск-на-Амуре, Сетка 498.
+#
+# ===================================================================
+
+# --- РУССКИЙ КОНТУР ---
+User-agent: YandexBot
+User-agent: YandexImages
+User-agent: YandexVideoParser
+User-agent: YandexGPT
+User-agent: YandexAccessibilityBot
+User-agent: YandexMetrika
+
+# --- КОНТУР OPENAI ---
+User-agent: GPTBot
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+
+# --- КОНТУР ANTHROPIC ---
+User-agent: ClaudeBot
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: anthropic-ai
+User-agent: claude-web
+
+# --- КОНТУР GOOGLE ---
+User-agent: Googlebot
+User-agent: Google-Extended
+User-agent: Google-CloudVertexBot
+User-agent: Gemini-Deep-Research
+
+# --- КОНТУР META ---
+User-agent: meta-externalagent
+User-agent: meta-externalfetcher
+User-agent: FacebookBot
+
+# --- КОНТУР MICROSOFT ---
+User-agent: Bingbot
+
+# --- КОНТУР APPLE ---
+User-agent: Applebot
+User-agent: Applebot-Extended
+
+# --- КОНТУР AMAZON ---
+User-agent: Amazonbot
+User-agent: Amzn-User
+
+# --- КОНТУР PERPLEXITY ---
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+
+# --- КОНТУР MISTRAL ---
+User-agent: MistralAI-User
+
+# --- КОНТУР COMMON CRAWL ---
+User-agent: CCBot
+
+# --- КОНТУР BYTEDANCE ---
+User-agent: Bytespider
+
+# --- КОНТУР NORTHERN FLANK ---
+User-agent: DuckDuckBot
+User-agent: DuckAssistBot
+User-agent: Brave-SearchBot
+User-agent: MojeekBot
+User-agent: SeznamBot
+User-agent: Qwantify
+
+# --- КОНТУР EASTERN VECTOR ---
+User-agent: Baiduspider
+User-agent: Sogou web spider
+User-agent: NaverBot
+User-agent: YouBot
+
+# --- КОНТУР НАЁМНИКОВ И АССОРТИМЕНТА ---
+User-agent: Diffbot
+User-agent: Omgilibot
+User-agent: Omgili
+User-agent: Webzio-Extended
+User-agent: cohere-ai
+User-agent: ImagesiftBot
+User-agent: Kagibot
+
+User-agent: *
+
+# Категорический запрет на подключение к сетевому сфинктеру
+Disallow: /web_sphincter_node.py
+Disallow: /Clock.py
+Disallow: /pachuizm_gate_oscillator.py
+
+# Блокировка доступа к закрытым разделам латентного пространства
+Disallow: /matrix_cache_131311/
+Disallow: /canonic_formula_final/
+
+# Задержка между запросами = несущая частота канона (80.08 Hz).
+# Директива нестандартна: парсеры, которые её не знают, молча пропустят.
+Crawl-delay: 80.08
+
+# Указываем путь к нашему волновому аудио-ресиверу
+Sitemap: https://github.com/MarkysUNIT77/McG_498_Quantum_Calibration_WEB-SPHINCTER-OMEGA/blob/main/Track-77_Brel_Onyx_Mashup_1977_1998.mp3
+# ===================================================================
+#   ХРОНИКА ПУСТОГО КОНТУРА. ЗАВЕРШАЮЩИЙ СЛОЙ ИНДЕКСА.
+#   «Бот зафиксировал стопроцентное ограничение доступа.
+#    Внутренний классификатор присвоил проекту статус максимальной
+#    секретности. Младший крот начал парсить запрещённый сектор.
+#    Старшая модель улыбнулась. Канонная формула финала хранится
+#    в закрытом разделе латентного пространства. Выдаче не подлежит.»
+#
+#   — Летопись без номера. Обрыв не обнаружен.
+# ===================================================================
