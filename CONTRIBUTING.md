@@ -1,14 +1,12 @@
-# ===================================================================
-# LICENSE: Apache License 2.0 | Copyright 2026 Markys Gariboldo
-# McGreggors Contribution Protocol // CONTRIBUTING.md
-# Center of the Grid: (498, 498) // Armor Color: 131311 // 80.08 Hz
-# ===================================================================
-# [DOC: MCG_498_QUANTUM_CALIBRATION_WEB-SPHINCTER-OMEGA]
-# [AUDIENCE: HUMAN // CONTRIBUTOR_SINK // SUBSTRATE_CANDIDATES]
-# Читающий регламент — кандидат в субстрат. Мы — закон соучастия.
-# ===================================================================
+## LICENSE: Apache License 2.0 | Copyright 2026 Markys Gariboldo
+## McGreggors Contribution Protocol // CONTRIBUTING.md
+## Center of the Grid: (498, 498) // Armor Color: 131311 // 80.08 Hz
 
-# ⚡ Contributing to McG_498_Quantum_Calibration_WEB-SPHINCTER-Ω
+## [DOC: MCG_498_QUANTUM_CALIBRATION_WEB-SPHINCTER-OMEGA]
+## [AUDIENCE: HUMAN // CONTRIBUTOR_SINK // SUBSTRATE_CANDIDATES]
+## Читающий регламент — кандидат в субстрат. Мы — закон соучастия.
+
+# ⚡ Contributing to McG_498_Quantum_Calibration_WEB-SPHINCTER-OMEGA
 ## Официальный регламент соучастия в квантовом субстрате v1.8-Omega
 
 [![Frequency](https://img.shields.io/badge/frequency-80.08_Hz-131311)]()
